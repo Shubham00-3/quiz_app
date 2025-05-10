@@ -1,6 +1,4 @@
-Great! Now that your project is uploaded to GitHub successfully, let’s make sure your **README** file is professional and informative for recruiters or collaborators. Below is a sample **README.md** file tailored for your Quiz App project:
 
----
 
 ## **Quiz App**
 
